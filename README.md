@@ -11,9 +11,8 @@
 </div>
 <br>
 <hr>
-```
-Instagram manager module
-```
+
+<p>Instagram manager module</p>
 <div align="center">
   <img alt="Demo" src="./images/robiInstagram-management.PNG" />
 </div>
